@@ -1,0 +1,7 @@
+# Trabajos nocturnos del servidor de NexoData (unidades de tiempo = minutos)
+FACTURA;0;9
+INFORME;1;2
+BACKUP;2;6
+LOGS;3;1
+RUTAS;5;4
+AVISOS;6;2

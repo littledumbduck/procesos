@@ -1,0 +1,5 @@
+# Caso límite: la CPU se queda ociosa y hay llegadas simultáneas
+X;0;2
+Y;5;3
+Z;5;1
+W;6;2
